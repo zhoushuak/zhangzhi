@@ -1,0 +1,63 @@
+.carousel-inner img{
+	margin: 0 auto;
+}
+.carousel-inner .item:nth-child(2){
+	background: #F5E4DC;
+}
+.carousel-inner .item:first-child{
+	background: #223240;
+}
+.carousel-inner .item:last-child{
+	background: #DD282D;
+}
+.carousel{
+	margin-top: 49px;
+}
+.myintro{
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 50px;
+}
+.mytit h3{
+	color: #0059b2;
+}
+.mytit p{
+	color: #9a9999;
+	font-size:16px;
+	margin-top: 20px;
+}
+.media-heading{
+	margin-bottom: 22px;
+	color: #666;
+}
+.myother{
+	color: #999;
+	text-decoration: line-through;
+}
+.media{
+	margin-bottom: 50px;
+}
+.mypower{
+	padding:50px 0px;
+	background: #eee;
+}
+.mypower-left{
+	text-align: center;
+	margin-top: 70px;
+}
+.mypower-left p{
+	font-size: 16px;
+}
+.myways{
+	padding:50px 0px;
+}
+.myways-right{
+	text-align: center;
+	margin-top: 40px;
+}
+.myways-right p{
+	font-size: 16px;
+}
+.pic-mid{
+	text-align: center;
+}
